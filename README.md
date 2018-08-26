@@ -1,4 +1,4 @@
-# 大嗷科技官方网站
+# RAR密码暴力破解工具——RAR Password Enumerator
 
 <b style="color: red">特别注意！本程序需要 .NET Framework 4.0 的支持！Windows XP / Vista / 7 用户请先下载并安装 .NET Framework 4.0。
 Windows 8 / 8.1 /10 的用户无需安装！</b>
