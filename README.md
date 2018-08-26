@@ -17,15 +17,16 @@ Windows 8 / 8.1 /10 的用户无需安装！</b>
 
 ![](http://img2.ph.126.net/lizJkH5m6QthGeT98sjctw==/2606739759336366554.png)
 <br/>
+<p>轻松解决 RAR / ZIP 密码</p>
 
 ![](http://img2.ph.126.net/JLD1jsJZO1Njr4t5yxMvKQ==/6632427861584120606.png)
 <br/>
+<p>轻松解决 RAR 密码</p>
 
 ![](http://img0.ph.126.net/OmGttskns_oXDJ2qFfUiMw==/6632319009932971146.png)
 <br/>
+<p>全球最牛密码与字典选项</p>
 
-![](http://img0.ph.126.net/OmGttskns_oXDJ2qFfUiMw==/6632319009932971146.png)
-<br/>
 <br/>
 这是一个破解加密的RAR文件的工具。利用穷举的思想暴力破解加密的RAR文件。
 
