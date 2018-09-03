@@ -8,7 +8,7 @@ Windows 8 / 8.1 /10 的用户无需安装！</b>
 <a href="http://www.crsky.com/soft/28831.html">从非凡软件站下载本软件</a>
 </p>
 <p style="align: center">
-<a href="https://pan.baidu.com/s/1eP9-nSkxTfDZ_3VkcicoxQ">最新版软件下载（更新至 7.6 rc2 版，推荐）</a>
+<a href="https://pan.baidu.com/s/1FdpNoBSNImg9jwU42QZRHA">最新版软件下载（更新至 7.6 rc3 版，推荐）</a>
 </p>
 <p style="align: center">
 <a href="https://pan.baidu.com/s/1hspfRa0">稳定版软件下载（更新至 7.5 sp1 版）</a>
