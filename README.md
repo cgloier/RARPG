@@ -8,7 +8,7 @@ Windows 8 / 8.1 /10 的用户无需安装！</b>
 <a href="http://www.crsky.com/soft/28831.html">从非凡软件站下载本软件</a>
 </p>
 <p style="align: center">
-<a href="https://pan.baidu.com/s/1cvbDejfF9qm2vE_1blQysA">最新版软件下载（更新至 7.6 rc5 版，推荐）</a>
+<a href="https://github.com/cgloier/RARPG/releases/download/v7.6-rc.5/RarPswdEnum_v7.6_rc5_Win64_32.zip">最新版软件下载（更新至 7.6 rc5 版，推荐）</a>
 </p>
 <p style="align: center">
 <a href="https://pan.baidu.com/s/1hspfRa0">稳定版软件下载（更新至 7.5 sp1 版）</a>
