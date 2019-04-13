@@ -1,4 +1,4 @@
-# RAR / ZIP 密码暴力破解工具——RAR Password Enumerator
+# RAR / ZIP 密码扫描工具——RAR Password Enumerator
 
 <b style="color: red">特别注意！本程序需要 .NET Framework 4.0 的支持！Windows XP / Vista / 7 用户请先下载并安装 .NET Framework 4.0。
 Windows 8 / 8.1 /10 的用户无需安装！</b>
@@ -28,10 +28,10 @@ Windows 8 / 8.1 /10 的用户无需安装！</b>
 <p>全球最牛密码与字典选项</p>
 
 <br/>
-这是一个破解加密的RAR文件的工具。利用穷举的思想暴力破解加密的RAR文件。
+这是一个恢复加密的RAR文件密码的工具。利用枚举的思想扫描加密的RAR文件。
 
 RAR Password Enumerator 特点：
-利用穷举的思想暴力破解加密的RAR文件。
+利用枚举的思想扫描加密的RAR文件。
 <br/>
 支持带有符号的字串。
 <br/>
@@ -41,9 +41,9 @@ RAR Password Enumerator 特点：
 <br/>
 支持密码前缀后缀中缀。
 <br/>
-支持破解进度保存。
+支持扫描进度保存。
 <br/>
-支持破解进度编辑。
+支持扫描进度编辑。
 <br/>
 支持自定义字典，根据基字串 生成密码组合。
 <br/>
