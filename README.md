@@ -13,11 +13,10 @@ Windows 8 / 8.1 /10 的用户无需安装！</b>
 <p style="align: center">
 <a href="https://pan.baidu.com/s/1hspfRa0">稳定版软件下载（更新至 7.5 sp1 版）</a>
 </p>
-<br/>
-
 <p style="align: center">
 <a href="https://github.com/cgloier/RARPG/releases/download/v7.6/RarPswdEnum_Help.zip">使用教程下载</a>
 </p>
+<br/>
 
 ![](http://img2.ph.126.net/lizJkH5m6QthGeT98sjctw==/2606739759336366554.png)
 <br/>
