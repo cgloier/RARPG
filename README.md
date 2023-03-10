@@ -8,10 +8,7 @@ Windows 8 / 8.1 /10 的用户无需安装！</b>
 <a href="http://www.crsky.com/soft/28831.html">从非凡软件站下载本软件</a>
 </p>
 <p style="align: center">
-<a href="https://github.com/cgloier/RARPG/releases/download/v7.6/RarPswdEnum_v7.6_sp1_rc2_Win64_32.zip">最新版软件下载（更新至 7.6 版，推荐）</a>
-</p>
-<p style="align: center">
-<a href="https://pan.baidu.com/s/1hspfRa0">稳定版软件下载（更新至 7.5 sp1 版）</a>
+<a href="https://github.com/cgloier/RARPG/releases/download/v7.8/RarPswdEnum-v7.8.zip">最新版软件下载（更新至 7.8 版，推荐）</a>
 </p>
 <p style="align: center">
 <a href="https://github.com/cgloier/RARPG/releases/download/v7.6/RarPswdEnum_Help.zip">使用教程下载</a>
@@ -52,6 +49,6 @@ RAR Password Enumerator 特点：
 <br/>
 简约灵活易用，轻松上手。
 <br/>
-支持主流 Windows 系统，完美支持 Windows 10。
+支持主流 Windows 系统，完美支持 Windows 11。
 <br/>
 <br/>
