@@ -5,9 +5,6 @@ Windows 8 / 8.1 / 10 / 11 的用户无需安装！</b>
 <br/>
 
 <p style="align: center">
-<a href="http://www.crsky.com/soft/28831.html">从非凡软件站下载本软件</a>
-</p>
-<p style="align: center">
 <a href="https://github.com/cgloier/RARPG/releases/download/v7.8/RarPswdEnum-v7.8.zip">最新版软件下载（更新至 7.8 版，推荐）</a>
 </p>
 <p style="align: center">
@@ -15,15 +12,9 @@ Windows 8 / 8.1 / 10 / 11 的用户无需安装！</b>
 </p>
 <br/>
 
-![](http://img2.ph.126.net/lizJkH5m6QthGeT98sjctw==/2606739759336366554.png)
 <br/>
 <p>轻松解决 RAR / ZIP 密码</p>
 
-![](http://img2.ph.126.net/JLD1jsJZO1Njr4t5yxMvKQ==/6632427861584120606.png)
-<br/>
-<p>轻松解决 RAR 密码</p>
-
-![](http://img0.ph.126.net/OmGttskns_oXDJ2qFfUiMw==/6632319009932971146.png)
 <br/>
 <p>全球最牛密码与字典选项</p>
 
